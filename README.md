@@ -12,7 +12,7 @@ A game that lets a turtle travel over obstacles and explore the city.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-I will use turtle in python to manuver the scene, but the player will chose the outcome by choosing a number. Each number will display a different task that mario will perform. The numbers will act as forward motion, backwards motion, jump, and speed run. There will be obsticles along the way, like stairs, hills, building, circles, and other obstacles that the player will have to navigate. Turtle will end at the end of the city by the players navigtion. 
+I will use turtle in python to manuver the scene, but the player will chose the outcome by choosing a number. Each number will display a different task that mario will perform. The numbers will act as forward motion, backwards motion, jump, and speed run. There will be obsticles along the way, like stairs, hills, building, circles, and other obstacles that the player will have to navigate. Turtle will end at the end of the city by the players navigtion. Using numbers might be difficult, so I will brainstorm other options, but having a Mario game basis!
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
